@@ -22,6 +22,7 @@ public class Player extends Entity {
 	protected boolean moving = false, attacking = false;
 	protected boolean left, right, jump;
 	protected int[][] lvlData;
+	
 	protected float xDrawOffset = 21 * Game.SCALE;
 	protected float yDrawOffset = 4 * Game.SCALE;
 
