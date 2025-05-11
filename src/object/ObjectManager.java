@@ -6,6 +6,7 @@ import java.awt.geom.Rectangle2D;
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 
+
 import entities.Enemy;
 import entities.Player;
 import entities.Player2;
@@ -21,9 +22,9 @@ import static utilz.Constants.Projectiles.*;
 public class ObjectManager {
 
 	private Playing playing;
-	private BufferedImage[][] potionImgs, containerImgs;
 	private BufferedImage[] cannonImgs;
 	private BufferedImage[][] treeImgs;
+	private BufferedImage[][] potionImgs, containerImgs;
 	private BufferedImage spikeImg, cannonBallImg;
 	private ArrayList<Potion> potions;
 	private ArrayList<GameContainer> containers;
