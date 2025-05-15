@@ -19,7 +19,6 @@ Onepiece Adventure là trò chơi platformer 2D chạy trên Java (Java 2D API) 
 1. **Cài đặt Java:** Đảm bảo đã cài JDK (Java Development Kit) phiên bản tương thích (ví dụ JDK 11 trở lên) và thiết lập biến môi trường `JAVA_HOME`.  
 2. **Tải mã nguồn:** Clone hoặc tải về thư mục dự án từ kho chứa (ví dụ GitHub).  
 3. **Biên dịch và chạy:** Sử dụng IDE (Eclipse/IntelliJ) hoặc dòng lệnh `javac` để biên dịch mã nguồn trong thư mục `src/`. Sau khi biên dịch, chạy chương trình chính (ví dụ `Main.java`) bằng lệnh `java`. Nếu có file `.jar`, chạy trực tiếp bằng `java -jar`.  
-4. **Thư viện (nếu cần):** Nếu dự án sử dụng thư viện bên ngoài (khá hiếm cho Java 2D thuần), hãy đảm bảo thêm vào classpath.  
 
 ## Cấu trúc thư mục
 - `src/` – Thư mục chứa mã nguồn Java (các lớp game, luồng game, xử lý va chạm, v.v.).  
