@@ -4,7 +4,7 @@
 Onepiece Adventure là trò chơi platformer 2D chạy trên Java (Java 2D API) với phong cách pixel art. Trò chơi hỗ trợ 1 hoặc 2 người chơi, trong đó người chơi điều khiển hai nhân vật Luffy và Zoro (vẽ lại theo phong cách pixel art riêng). Game có tổng cộng 5 màn chơi với độ khó tăng dần, từ những màn cơ bản đến những màn thử thách. Các NPC (kẻ địch, các đối tượng tương tác) và cơ chế nhảy, va chạm, AI trong game được kế thừa và điều chỉnh từ mã nguồn PlatformerTutorial gốc của KaarinGaming. Mục tiêu là vượt qua các chướng ngại vật, đánh bại kẻ địch và hoàn thành cấp độ.
 
 ## Tính năng
-- **Chơi đơn hoặc đôi:** Hỗ trợ chế độ chơi đơn và đôi cùng chia sẻ màn hình (sojin).  
+- **Chơi đơn hoặc đôi:** Hỗ trợ chế độ chơi đơn và đôi cùng trên một màn hình.  
 - **Nhân vật pixel art:** Luffy và Zoro được vẽ lại theo phong cách pixel art thủ công, mang hơi hướng anime (One Piece) nhưng vẫn phù hợp lối chơi retro.  
 - **Năm màn chơi:** Game có 5 cấp độ với độ khó tăng dần, mỗi màn có thiết kế khác nhau (hòn đảo nhiệt đới, thành phố đổ nát, rừng rậm, v.v.).  
 - **Cơ chế inherited:** Từ game gốc, giữ lại cơ chế nhảy, va chạm với địa hình, AI đơn giản của kẻ địch, đồng thời thêm thắt một số yếu tố tùy chỉnh cho phù hợp với chủ đề.  
