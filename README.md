@@ -39,6 +39,6 @@ Onepiece Adventure là trò chơi platformer 2D chạy trên Java (Java 2D API) 
 
 
 ## Tài liệu tham khảo
-**PlatformerTutorial** - KaarinGaming
-Pixel Frog
-Java Object Oriented Programming Series - Caleb Curry
+- **PlatformerTutorial** - KaarinGaming
+- Pixel Frog
+- Java Object Oriented Programming Series - Caleb Curry
