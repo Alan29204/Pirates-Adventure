@@ -38,5 +38,7 @@ Onepiece Adventure là trò chơi platformer 2D chạy trên Java (Java 2D API) 
 :contentReference[oaicite:4]{index=4}Tất cả đồ họa nhân vật và các đối tượng (NPC, cửa hàng, biển báo, đồ vật) được vẽ lại theo phong cách pixel. Hình minh họa là một góc nhỏ (cửa hàng nhỏ) vẽ theo pixel art, tương tự như phong cách đồ họa trong game. Luffy, Zoro và NPC khác cũng sẽ được thể hiện với cùng phong cách này để tạo sự đồng nhất.
 
 
-## Cảm hứng
-Dự án này được phát triển dựa trên mã nguồn của **PlatformerTutorial** do KaarinGaming thực hiện. Trong hướng dẫn gốc, tác giả đã cung cấp sẵn code (miễn phí dùng lại, public domain) và pixel art mặc định của Pixel Frog. Chúng tôi đã chỉnh sửa lại mã nguồn, thiết kế lại giao diện và thêm nội dung mới để tạo ra phiên bản Zoro & Luffy Platformer độc đáo cho riêng mình.
+## Tài liệu tham khảo
+**PlatformerTutorial** - KaarinGaming
+Pixel Frog
+Java Object Oriented Programming Series - Caleb Curry
