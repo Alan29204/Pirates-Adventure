@@ -13,7 +13,7 @@ Onepiece Adventure là trò chơi platformer 2D chạy trên Java (Java 2D API) 
 ## Điều khiển
 - **Người chơi 1:** Sử dụng phím `A` (trái), `D` (phải) để di chuyển, phím `W` để nhảy.  
 - **Người chơi 2:** Sử dụng phím `←` (trái), `→` (phải) để di chuyển, phím `↑` để nhảy.  
-- **Điều khiển chung:** Phím `Esc` tạm dừng hoặc thoát game, phím `P` để tạm dừng (nếu được cài).  
+- **Điều khiển chung:** Phím `Esc` tạm dừng hoặc thoát game, phím `P` để tạm dừng.
 
 ## Cách cài đặt
 1. **Cài đặt Java:** Đảm bảo đã cài JDK (Java Development Kit) phiên bản tương thích (ví dụ JDK 11 trở lên) và thiết lập biến môi trường `JAVA_HOME`.  
