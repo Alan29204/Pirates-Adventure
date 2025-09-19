@@ -29,6 +29,7 @@ Pirates Adventure là trò chơi platformer 2D chạy trên Java (Java 2D API) v
 
 ## Hình ảnh minh họa
 ![ First Look](./res/pic/1.png)
+![](./res/pic/3.png)
 ![](./res/pic/2.png)
 
 
