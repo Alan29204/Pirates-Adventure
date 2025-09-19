@@ -1,7 +1,7 @@
-# Onepiece Adventure
+# Pirates Adventure
 
 ## Giới thiệu
-Onepiece Adventure là trò chơi platformer 2D chạy trên Java (Java 2D API) với phong cách pixel art. Trò chơi hỗ trợ 1 hoặc 2 người chơi, trong đó người chơi điều khiển hai nhân vật Luffy và Zoro (vẽ lại theo phong cách pixel art riêng). Game có tổng cộng 5 màn chơi với độ khó tăng dần, từ những màn cơ bản đến những màn thử thách với nhiều kẻ địch hơn. Các NPC (kẻ địch, các đối tượng tương tác) và cơ chế nhảy, di chuyển và tấn công. Mục tiêu là vượt qua các chướng ngại vật, đánh bại kẻ địch và hoàn thành cấp độ.
+Pirates Adventure là trò chơi platformer 2D chạy trên Java (Java 2D API) với phong cách pixel art. Trò chơi hỗ trợ 1 hoặc 2 người chơi, trong đó người chơi điều khiển hai nhân vật Luffy và Zoro (vẽ lại theo phong cách pixel art riêng). Game có tổng cộng 5 màn chơi với độ khó tăng dần, từ những màn cơ bản đến những màn thử thách với nhiều kẻ địch hơn. Các NPC (kẻ địch, các đối tượng tương tác) và cơ chế nhảy, di chuyển và tấn công. Mục tiêu là vượt qua các chướng ngại vật, đánh bại kẻ địch và hoàn thành cấp độ.
 
 ## Tính năng
 - **Chơi đơn hoặc đôi:** Hỗ trợ chế độ chơi đơn và đôi cùng trên một màn hình.  
