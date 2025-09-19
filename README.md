@@ -29,9 +29,7 @@ Pirates Adventure là trò chơi platformer 2D chạy trên Java (Java 2D API) v
 
 ## Hình ảnh minh họa
 ![ First Look](./res/pic/1.png)
-:contentReference[oaicite:3]{index=3}Thiết kế màn chơi là các nền tảng lơ lửng Hình ảnh ví dụ trên minh họa một phần bản đồ điển hình của game.
-
-:contentReference[oaicite:4]{index=4}Tất cả đồ họa nhân vật và các đối tượng (NPC, biển báo, đồ vật) được vẽ lại theo phong cách pixel. Luffy, Zoro và NPC khác cũng sẽ được thể hiện với cùng phong cách này để tạo sự đồng nhất.
+![](./res/pic/2.png)
 
 
 ## Tài liệu tham khảo
