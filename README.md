@@ -1,39 +1,63 @@
-# Pirates Adventure
+# 🏴‍☠️ Pirates Adventure  
 
-## Giới thiệu
-Pirates Adventure là trò chơi platformer 2D chạy trên Java (Java 2D API) với phong cách pixel art. Trò chơi hỗ trợ 1 hoặc 2 người chơi, trong đó người chơi điều khiển hai nhân vật Luffy và Zoro (vẽ lại theo phong cách pixel art riêng). Game có tổng cộng 5 màn chơi với độ khó tăng dần, từ những màn cơ bản đến những màn thử thách với nhiều kẻ địch hơn. Các NPC (kẻ địch, các đối tượng tương tác) và cơ chế nhảy, di chuyển và tấn công. Mục tiêu là vượt qua các chướng ngại vật, đánh bại kẻ địch và hoàn thành cấp độ.
+## 🎮 Overview  
+**Pirates Adventure** is a 2D platformer built in **Java (Java 2D API)** with a retro **pixel art** style.  
+The game supports **1 or 2 players**, featuring two main characters: **Luffy** and **Zoro** (redesigned in unique pixel art).  
+It includes **5 levels** with increasing difficulty, enemy NPCs, and interactive objects.  
+Players can run, jump, attack, and overcome obstacles to defeat enemies and complete each stage.  
 
-## Tính năng
-- **Chơi đơn hoặc đôi:** Hỗ trợ chế độ chơi đơn và đôi cùng trên một màn hình.  
-- **Nhân vật pixel art:** Luffy và Zoro được vẽ lại theo phong cách pixel art thủ công, mang hơi hướng anime (One Piece) nhưng vẫn phù hợp lối chơi retro.  
-- **Năm màn chơi:** Game có 5 cấp độ với độ khó tăng dần, mỗi màn có thiết kế khác nhau (hòn đảo nhiệt đới, thành phố đổ nát, rừng rậm, v.v.).  
-- **Cơ chế inherited:** Từ game gốc, giữ lại cơ chế nhảy, va chạm với địa hình, AI đơn giản của kẻ địch, đồng thời thêm thắt một số yếu tố tùy chỉnh cho phù hợp với chủ đề.  
-- **Đồ họa và âm thanh:** Sử dụng ảnh nền và âm thanh phù hợp (ví dụ tiếng bước chân, nhạc nền cảnh hành động) với định dạng trong thư mục `res/`.  
+---
 
-## Điều khiển
-- **Người chơi 1:** Sử dụng phím `A` (trái), `D` (phải) để di chuyển, phím `W` để nhảy.  
-- **Người chơi 2:** Sử dụng phím `←` (trái), `→` (phải) để di chuyển, phím `↑` để nhảy.  
-- **Điều khiển chung:** Phím `Esc` tạm dừng hoặc thoát game, phím `P` để tạm dừng.
+## ✨ Features  
+- 👥 **Single or Co-op Mode**: Play solo or with a friend on the same screen.  
+- 🎨 **Pixel Art Characters**: Hand-drawn pixel versions of **Luffy** and **Zoro**, inspired by *One Piece* but designed with a retro aesthetic.  
+- 🏝️ **Five Unique Levels**: From tropical islands to ruined cities and dense jungles, each stage offers a new challenge.  
+- ⚔️ **Classic Mechanics with Custom Additions**: Retains platforming basics (jumping, collisions, simple enemy AI) while adding pirate-themed elements.  
+- 🔊 **Graphics & Sound**: Immersive backgrounds and audio (footsteps, combat sounds, action music) stored in the `res/` folder.  
 
-## Cách cài đặt
-1. **Cài đặt Java:** Đảm bảo đã cài JDK (Java Development Kit) phiên bản tương thích (ví dụ JDK 11 trở lên) và thiết lập biến môi trường `JAVA_HOME`.  
-2. **Tải mã nguồn:** Clone hoặc tải về thư mục dự án từ kho chứa (ví dụ GitHub).  
-3. **Biên dịch và chạy:** Sử dụng IDE (Eclipse/IntelliJ/ Visual Studio Code) hoặc dòng lệnh `javac` để biên dịch mã nguồn trong thư mục `src/`. Sau khi biên dịch, chạy chương trình chính (`Main.java`).
-## Cấu trúc thư mục
-- `src/` – Thư mục chứa mã nguồn Java (các lớp game, luồng game, xử lý va chạm, v.v.).  
-- `res/` – Thư mục tài nguyên:
-  - `res/` – Hình ảnh (pixel art nhân vật Luffy, Zoro, NPC, tileset nền, cây, v.v.).  
-  - `res/levels/` – Dữ liệu các màn chơi.  
-  - `res/audio/` – Âm thanh và nhạc nền.    
-- `README.md` – Tệp hướng dẫn.  
+---
 
-## Hình ảnh minh họa
+## 🎮 Controls  
+- **Player 1**:  
+  - `A` = Move Left  
+  - `D` = Move Right  
+  - `W` = Jump  
+
+- **Player 2**:  
+  - `←` = Move Left  
+  - `→` = Move Right  
+  - `↑` = Jump  
+
+- **General**:  
+  - `Esc` = Pause/Exit  
+  - `P` = Pause  
+
+---
+## 🕹️ How to Play  
+
+- 🎯 **Objective**: Complete each stage by jumping across platforms, avoiding traps, and defeating enemies.  
+- 🏃 **Movement**:  
+  - **Player 1**: `A` (left), `D` (right), `W` (jump)  
+  - **Player 2**: `←` (left), `→` (right), `↑` (jump)  
+- ⚔️ **Combat**: Use the attack key (configured in-game) to fight enemies.  
+- ❤️ **Lives**: Each player has limited health/lives – losing them all ends the game.  
+- 🏆 **Winning**: Clear all **5 levels** to complete the adventure and claim victory.  
+- ⏸️ **Pause/Exit**: Press `P` to pause and `Esc` to pause or exit the game.  
+
+## ⚙️ Installation  
+1. **Install Java**: Ensure you have **JDK 11+** installed and `JAVA_HOME` set up.  
+2. **Get the Source Code**: Clone or download this repository.  
+   ```bash
+   git clone https://github.com/your-username/pirates-adventure.git
+
+## 🖼️ Screenshots
 ![ First Look](./res/pic/1.png)
 ![](./res/pic/3.png)
 ![](./res/pic/2.png)
 
 
-## Tài liệu tham khảo
-- **PlatformerTutorial** - KaarinGaming
-- Pixel Frog
-- Java Object Oriented Programming Series - Caleb Curry
+## 📚 References
+
+- 🎮 **Platformer Tutorial** – KaarinGaming  
+- 🎨 **Pixel Frog** – Free pixel art game assets  
+- 📘 **Java Object-Oriented Programming Series** – Caleb Curry  
