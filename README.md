@@ -27,8 +27,8 @@ Onepiece Adventure là trò chơi platformer 2D chạy trên Java (Java 2D API) 
   - `res/audio/` – Âm thanh và nhạc nền.    
 - `README.md` – Tệp hướng dẫn.  
 
-## Hình ảnh minh họa (giả lập)
-:contentReference[oaicite:2]{index=2}Trong Zoro & Luffy Platformer, bối cảnh có thể là các hòn đảo ngoài khơi trên biển mang đậm không khí phiêu lưu (tương tự vùng biển trong One Piece). Các cảnh hoàng hôn, đại dương, cây cối nhiệt đới… có thể được mô phỏng để tăng tính hấp dẫn.
+## Hình ảnh minh họa
+:contentReference[oaicite:2]{index=2}2 nhân vật trong bối cảnh là các hòn đảo ngoài khơi trên biển mang đậm không khí phiêu lưu (tương tự vùng biển trong One Piece). Các cảnh biển, đại dương, cây cối nhiệt đới.
 
 :contentReference[oaicite:3]{index=3}Thiết kế màn chơi là các nền tảng lơ lửng Hình ảnh ví dụ trên minh họa một phần bản đồ điển hình của game.
 
